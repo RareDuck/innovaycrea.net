@@ -1,3 +1,3 @@
 # innovaycrea.net
 My first webpage
-http://innovaycrea.net/
+https://rareduck.github.io/innovaycrea.net/
