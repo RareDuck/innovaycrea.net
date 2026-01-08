@@ -1,0 +1,28 @@
+body 
+{
+    font-family:'Times New Roman', Times, serif;
+    background-color: #000000;
+    color: #ffffff;
+    margin: 90 px;
+    margin-left: 90px;
+    font-size: 17px;
+}
+
+h1
+{
+    color: #ffffff;
+    font-size: 80px;
+    text-align: center;
+}
+
+h2
+{
+    color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+}
+
+a
+{
+    color: #ff0000;
+}
